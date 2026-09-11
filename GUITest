@@ -11029,7 +11029,7 @@ game.StarterGui:SetCore("SendNotification", {
 	local SwordWeld = getPartJoint(SwordWeld)
 	local BtoolsWeld = getPartFromMesh(18431821898,18431821929)
 	local BtoolsWeld = getPartJoint(BtoolsWeld)
-	local HammerWeld = getPartFromMesh(14463205245,14463205530)
+	local HammerWeld = getPartFromMesh(15427253997,15427270363)
 	local HammerWeld = getPartJoint(HammerWeld)
 	local CoilWeld = getPartFromMesh(18385651164,18385651291)
 	local CoilWeld = getPartJoint(CoilWeld)
